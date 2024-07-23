@@ -1,0 +1,1 @@
+console.log(`${__filename}`); // Output: /Users/username/test.js
